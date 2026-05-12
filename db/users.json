@@ -18,5 +18,26 @@
     ],
     "server_num": 5,
     "password_changed_at": "2026-05-08T16:13:50.692791"
+  },
+  "rawasi": {
+    "username": "rawasi",
+    "password": "rawasiistp9w8R",
+    "student_type": "علمي",
+    "telegram_user_id": "6251908545",
+    "telegram_username": "ixcevv",
+    "telegram_first_name": "رَٰ",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_59.jpg",
+    "session_id": "036edd7e-9aee-41c7-98de-78117e92e691",
+    "created_at": "2026-05-11T20:36:55.427945",
+    "verified": true,
+    "last_login": "2026-05-11T20:42:11.900481",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "linguistic_studies",
+      "english",
+      "it"
+    ],
+    "server_num": 5
   }
 }
